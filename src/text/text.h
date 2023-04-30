@@ -10,9 +10,11 @@ class Text {
         Text(const Renderer& renderer, const std::string& font_filename, const int size);
         ~Text();
 
-        void setText(const std::string& text, const Color& color);
         void show(const std::string& text, const SDL_Rect& dst, const Color& color);
         void show(const SDL_Rect& dst);
+        
+    private:
+        void setText(const std::string& text, const Color& color);
 
     private:
         SDL_Texture* texture;
