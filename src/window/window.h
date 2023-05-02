@@ -1,5 +1,5 @@
 // Copyright (C) 2023 by Vikram Kangotra
-// This file is part of Circuit-Simulator.
+// This file is part of Epicycloid.
 
 #pragma once
 

@@ -1,3 +1,6 @@
+// Copyright (C) 2023 by Vikram Kangotra
+// This file is part of Epicycloid.
+
 #include "text.h"
 #include <SDL2/SDL_render.h>
 #include <SDL2/SDL_surface.h>

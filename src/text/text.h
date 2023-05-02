@@ -1,3 +1,6 @@
+// Copyright (C) 2023 by Vikram Kangotra
+// This file is part of Epicycloid.
+
 #pragma once
 
 #include <SDL2/SDL.h>
